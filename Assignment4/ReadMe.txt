@@ -1,0 +1,1 @@
+requires Javafx to run the program
