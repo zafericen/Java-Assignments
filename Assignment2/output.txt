@@ -1,0 +1,32 @@
+Player 2	12	13	15000	13500	 Player 2 bought Electric Company 
+Player 1	6	7	14000	13500	 Player 1 bought The Angel Islington 
+Player 1	3	10	12800	13500	 Player 1 bought Pentonville Road 
+Player 2	4	17	12800	11700	 Player 2 bought Bow Street 
+-----------------------------------------------------------------------------------------------------------
+Player 1	12800	have: The Angel Islington,Pentonville Road
+Player 2	11700	have: Electric Company,Bow Street
+Banker	105500
+Winner:Player 1
+-----------------------------------------------------------------------------------------------------------
+Player 1	4	14	11400	11700	 Player 1 bought Whitehall 
+Player 2	8	25	11400	9300	 Player 2 bought Trafalgar Square 
+Player 1	12	26	9400	9300	 Player 1 bought Fenchurch St Station 
+Player 2	4	29	9400	7800	 Player 2 bought Water Works 
+Player 1	12	38	5900	7800	 Player 1 bought Park Lane 
+Player 2	4	33	5900	4800	 Player 2 bought Oxford Street 
+Player 2	7	40	5900	800	 Player 2 bought Mayfair 
+-----------------------------------------------------------------------------------------------------------
+Player 1	5900	have: The Angel Islington,Pentonville Road,Whitehall,Fenchurch St Station,Park Lane
+Player 2	800	have: Electric Company,Bow Street,Trafalgar Square,Water Works,Oxford Street,Mayfair
+Banker	123300
+Winner:Player 1
+-----------------------------------------------------------------------------------------------------------
+Player 1	4	2	5500	800	 Player 1 bought Old Kent Road 
+Player 2	12	12	5500	-600	 Player 2 bought Pall Mall 
+Player 2	12	12	5500	-600	Player 2 goes bankrupt
+-----------------------------------------------------------------------------------------------------------
+Player 1	5500	have: The Angel Islington,Pentonville Road,Whitehall,Fenchurch St Station,Park Lane,Old Kent Road
+Player 2	-600	have: Electric Company,Bow Street,Trafalgar Square,Water Works,Oxford Street,Mayfair,Pall Mall
+Banker	125100
+Winner:Player 1
+-----------------------------------------------------------------------------------------------------------
